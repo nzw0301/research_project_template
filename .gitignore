@@ -1,0 +1,54 @@
+# Mac
+.DS_store
+
+# LaTeX
+
+*.aux
+*.dvi
+*.log
+.omakedb
+.omakedb.lock
+*.omc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lot
+*.lof
+
+# emacs
+auto/
+*~
+
+.sass-cache
+.bundle/
+/vendor/
+/.idea/
+
+
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# ENSIME specific
+.ensime_cache/
+.ensime
+
+Untitled*.ipynb
+.ipynb_checkpoints/
