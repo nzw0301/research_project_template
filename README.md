@@ -1,15 +1,14 @@
-Minimal templete for my research project.
-This structure is affected by [D. Tran's blog post](http://dustintran.com/blog/a-research-to-engineering-workflow).
+# Minimal template for my research project.
+
 
 ```
-├── Dockerfile
 ├── README.md
 ├── code
 │   ├── data
 │   ├── notebooks
 │   └── test
 ├── doc
-│   ├── guideline author guideline and templete files
+│   ├── # guideline author guideline and template files
 │   └── images # LaTex figures
-└── misc  # comments, blackboard, etc
+└── misc  # comments by co-authors, blackboard, etc
 ```
